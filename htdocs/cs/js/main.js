@@ -77,7 +77,7 @@
 		transition_speed		:	700,		// Speed of transition				
 		slide_links				:	'blank',	// Individual links for each slide (Options: false, 'num', 'name', 'blank')
 		slides 					:  	[			// Slideshow Images
-										{image : 'photos/DSC_9152v.jpg'}
+										{image : '../photos/DSC_9152v.jpg'}
 									]
 		});	
 	

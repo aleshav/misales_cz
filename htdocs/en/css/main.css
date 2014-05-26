@@ -498,15 +498,15 @@ width:250px;
 
 /* This is where you change the path of the images for the couple */
 .ch-img-1 { 
-	background-image: url(../photos/a.jpg);
+	background-image: url(../../photos/a.jpg);
 }
 
 .ch-img-2 { 
-	background-image: url(../photos/couple.jpg);
+	background-image: url(../../photos/couple.jpg);
 }
 
 .ch-img-3 { 
-	background-image: url(../photos/m.jpg);
+	background-image: url(../../photos/m.jpg);
 }
 
 .ch-info {
@@ -758,7 +758,7 @@ margin: 0 0 10px;
 /*   VII. RSVP
 ==============================*/ 
 #rsvpwrap {
-	background: url(../placeholders/1400x950.gif) no-repeat center top;
+	background: url(../../photos/rsvp.jpg) no-repeat center top;
 /* 	background: url(http://666a658c624a3c03a6b2-25cda059d975d2f318c03e90bcf17c40.r92.cf1.rackcdn.com/unsplash_5259a34e5d050_1.JPG) no-repeat center top; */
 	margin-top: 0px;
 	padding:70px 0;
